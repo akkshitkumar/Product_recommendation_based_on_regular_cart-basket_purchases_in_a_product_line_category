@@ -1,5 +1,3 @@
-# G104_MLDM_Project
-
 ## Product recommendation based on regular cart/basket purchases in a product line category.
 
 #### Tushar Kapur | Business Analytics and Big Data | Thapar University
